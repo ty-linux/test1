@@ -1,0 +1,21 @@
+qgyyzs.net
+
+IIS 7.5  ， ASP.NET 版本:4.7.3535.0   安全狗   mssql
+JavaScript Frameworks:jQuery 1.10.2
+
+47.96.0.99    www.qgyyzs.net     api.qgyyzs.net    http://m.qgyyzs.net/
+http://kf.qgyyzs.net/   https://zb.qgyyzs.net/
+80/tcp   open  http       Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+443/tcp  open  ssl/http   Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+5500/tcp open  tcpwrapped
+	
+IIS 8.5   
+121.41.88.140  http://data.qgyyzs.net/   https://ylqx.qgyyzs.net/
+http://cj.qgyyzs.net/
+22/tcp   closed ssh
+80/tcp   open   http               Microsoft IIS httpd 8.5
+443/tcp  open   ssl/http           Microsoft IIS httpd 8.5
+1433/tcp open   ms-sql-s           Microsoft SQL Server 2008 10.00.1600; RTM
+3389/tcp open   ssl/ms-wbt-server?
+5500/tcp open   tcpwrapped
+5555/tcp closed freeciv
